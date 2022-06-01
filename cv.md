@@ -36,3 +36,12 @@ I am new to programming and want to learn programming from scratch. I work as an
 ***
 ### Code example
 CV
+
+
+### work experience: 
+Duty engineer for technical support and monitoring
+
+
+### Language skills:
+- Rusiisan (native)
+- English (Intermediate)
